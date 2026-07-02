@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Ankit Chaurasiya
 
-<!--
-**anky1weo/anky1weo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science)
 
-Here are some ideas to get you started:
+📍 Madhya Pradesh, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Passionate about Programming
+- 🌱 Currently learning Java, DSA & Data Engineering
+- 🤖 Interested in AI and Machine Learning
+- 🏆 Hackathon Enthusiast
+
+## 🛠 Tech Stack
+
+- Java
+- Python
+- SQL
+- React
+- Node.js
+- PostgreSQL
+
+## 📈 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Data Engineering
+- Spring Boot
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/anky1weo
+- Email: ankitchaurasiya0841@gmail.com
+
+⭐ Thanks for visiting my profile!
